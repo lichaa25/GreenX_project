@@ -29,7 +29,7 @@ This project was built as part of a hackathon to address pressing environmental 
 ---
 
 
-git clone https://github.com/lichaa25/pollutrack.git
+git clone https://github.com/lichaa25/hackathon.git
 cd pollutrack
 
 set up the python environment
